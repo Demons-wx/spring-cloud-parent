@@ -22,5 +22,6 @@
         <module>turbine</module>
         <module>turbine-amqp</module>
         <module>hystrix-dashboard</module>
+        <module>stream-hello</module>
     </modules>
 </project>
